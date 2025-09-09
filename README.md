@@ -55,7 +55,7 @@ Copy code
 ## ⚙️ Installation & Setup
 1. Install **Java JDK 17+** and set up environment variables.
 2. Install **MySQL** and create a database (example: `eventdb`).
-3. Import required tables for `admin`, `users`, `events`, and `attendees`.
+3. Import required sql file <b>projectsemtwo</b>
 4. Add the MySQL connector (`mysql-connector-j-9.0.0.jar`) to your project.
 5. Open the project in **VS Code** or **Eclipse**.
 6. Compile and run the program:
