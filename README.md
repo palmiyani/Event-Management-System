@@ -65,7 +65,7 @@ Copy code
 📊 Database Tables (Sample)
 <img width="1303" height="232" alt="image" src="https://github.com/user-attachments/assets/e2c8adf6-3095-440e-bbf5-81aebfc66e6d" />
 
-👨‍💻 Author
+👨‍💻 <b>Author</b>
 
 Developed by <b>PAL MIYANI</b><br>
 GitHub: palmiyani
