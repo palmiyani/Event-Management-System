@@ -68,4 +68,4 @@ Copy code
 👨‍💻 <b>Author</b>
 
 Developed by <b>PAL MIYANI</b><br>
-GitHub: palmiyani
+GitHub: palmiyani<br>
