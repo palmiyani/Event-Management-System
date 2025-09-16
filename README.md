@@ -47,8 +47,6 @@ sem2/<br>
 │── lib/ # External libraries (mysql-connector)<br>
 │── README.md # Project documentation<br>
 
-markdown
-Copy code
 
 ---
 
